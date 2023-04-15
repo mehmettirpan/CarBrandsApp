@@ -7,9 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		021BB50829EB395300F0F837 /* BmwGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021BB50729EB395300F0F837 /* BmwGroup.swift */; };
-		021BB50A29EB4A1400F0F837 /* Volkswagen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021BB50929EB4A1400F0F837 /* Volkswagen.swift */; };
-		025B478B29EAC3DB0026C11C /* RenaultGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025B478A29EAC3DB0026C11C /* RenaultGroup.swift */; };
 		02C64FC529EAB8A200087B19 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C64FC429EAB8A200087B19 /* AppDelegate.swift */; };
 		02C64FC729EAB8A200087B19 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C64FC629EAB8A200087B19 /* SceneDelegate.swift */; };
 		02C64FC929EAB8A200087B19 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C64FC829EAB8A200087B19 /* ViewController.swift */; };
@@ -19,9 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		021BB50729EB395300F0F837 /* BmwGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BmwGroup.swift; sourceTree = "<group>"; };
-		021BB50929EB4A1400F0F837 /* Volkswagen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volkswagen.swift; sourceTree = "<group>"; };
-		025B478A29EAC3DB0026C11C /* RenaultGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RenaultGroup.swift; path = ../RenaultGroup.swift; sourceTree = "<group>"; };
 		02C64FC129EAB8A200087B19 /* Only Car.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Only Car.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		02C64FC429EAB8A200087B19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02C64FC629EAB8A200087B19 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,9 +63,6 @@
 				02C64FCD29EAB8A300087B19 /* Assets.xcassets */,
 				02C64FCF29EAB8A300087B19 /* LaunchScreen.storyboard */,
 				02C64FD229EAB8A300087B19 /* Info.plist */,
-				025B478A29EAC3DB0026C11C /* RenaultGroup.swift */,
-				021BB50729EB395300F0F837 /* BmwGroup.swift */,
-				021BB50929EB4A1400F0F837 /* Volkswagen.swift */,
 			);
 			path = exampleScroll;
 			sourceTree = "<group>";
@@ -148,9 +139,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				02C64FC929EAB8A200087B19 /* ViewController.swift in Sources */,
-				021BB50829EB395300F0F837 /* BmwGroup.swift in Sources */,
-				021BB50A29EB4A1400F0F837 /* Volkswagen.swift in Sources */,
-				025B478B29EAC3DB0026C11C /* RenaultGroup.swift in Sources */,
 				02C64FC529EAB8A200087B19 /* AppDelegate.swift in Sources */,
 				02C64FC729EAB8A200087B19 /* SceneDelegate.swift in Sources */,
 			);
