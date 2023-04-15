@@ -22,7 +22,7 @@
 		021BB50729EB395300F0F837 /* BmwGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BmwGroup.swift; sourceTree = "<group>"; };
 		021BB50929EB4A1400F0F837 /* Volkswagen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volkswagen.swift; sourceTree = "<group>"; };
 		025B478A29EAC3DB0026C11C /* RenaultGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RenaultGroup.swift; path = ../RenaultGroup.swift; sourceTree = "<group>"; };
-		02C64FC129EAB8A200087B19 /* exampleScroll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = exampleScroll.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		02C64FC129EAB8A200087B19 /* Only Car.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Only Car.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		02C64FC429EAB8A200087B19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02C64FC629EAB8A200087B19 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		02C64FC829EAB8A200087B19 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		02C64FC229EAB8A200087B19 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				02C64FC129EAB8A200087B19 /* exampleScroll.app */,
+				02C64FC129EAB8A200087B19 /* Only Car.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -79,9 +79,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		02C64FC029EAB8A200087B19 /* exampleScroll */ = {
+		02C64FC029EAB8A200087B19 /* Only Car */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 02C64FD529EAB8A300087B19 /* Build configuration list for PBXNativeTarget "exampleScroll" */;
+			buildConfigurationList = 02C64FD529EAB8A300087B19 /* Build configuration list for PBXNativeTarget "Only Car" */;
 			buildPhases = (
 				02C64FBD29EAB8A200087B19 /* Sources */,
 				02C64FBE29EAB8A200087B19 /* Frameworks */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = exampleScroll;
+			name = "Only Car";
 			productName = exampleScroll;
-			productReference = 02C64FC129EAB8A200087B19 /* exampleScroll.app */;
+			productReference = 02C64FC129EAB8A200087B19 /* Only Car.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +111,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 02C64FBC29EAB8A200087B19 /* Build configuration list for PBXProject "exampleScroll" */;
+			buildConfigurationList = 02C64FBC29EAB8A200087B19 /* Build configuration list for PBXProject "Only Car" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,7 +124,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				02C64FC029EAB8A200087B19 /* exampleScroll */,
+				02C64FC029EAB8A200087B19 /* Only Car */,
 			);
 		};
 /* End PBXProject section */
@@ -351,7 +351,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		02C64FBC29EAB8A200087B19 /* Build configuration list for PBXProject "exampleScroll" */ = {
+		02C64FBC29EAB8A200087B19 /* Build configuration list for PBXProject "Only Car" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				02C64FD329EAB8A300087B19 /* Debug */,
@@ -360,7 +360,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		02C64FD529EAB8A300087B19 /* Build configuration list for PBXNativeTarget "exampleScroll" */ = {
+		02C64FD529EAB8A300087B19 /* Build configuration list for PBXNativeTarget "Only Car" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				02C64FD629EAB8A300087B19 /* Debug */,
